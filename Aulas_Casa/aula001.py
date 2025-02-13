@@ -1,4 +1,4 @@
-print('Sei la')
+print('Testando o debug')
 print('123')
 print('Kleito o brabo')
 print('cade gta6')

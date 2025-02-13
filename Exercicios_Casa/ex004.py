@@ -1,0 +1,8 @@
+valor_agregado = input('Digite algum valor: ')
+print(f'O tipo primitivo desse valor é {type(valor_agregado)}')
+print(f'É numerico? {valor_agregado.isnumeric()}')
+print(f'Está em maiúsculo? {valor_agregado.isupper()}')
+print(f'É alfabético? {valor_agregado.isalpha()}')
+print(f'Está em minúsculo? {valor_agregado.islower()}')
+print(f'É alfanúmerico? {valor_agregado.isalnum()}')
+print(f'É decimal? {valor_agregado.isdecimal()}')
