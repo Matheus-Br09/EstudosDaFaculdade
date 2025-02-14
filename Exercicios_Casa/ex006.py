@@ -1,0 +1,5 @@
+numero_calc = float(input('Digite um valor: '))
+print(f'Número selecionado: {numero_calc: .0f}')
+print(f'Dobro de {numero_calc}: {numero_calc*2: .1f}')
+print(f'Triplo de {numero_calc}: {numero_calc*3: .1f}')
+print(f'Raiz quadrada de {numero_calc}: {numero_calc ** 0.5: .0f}')
